@@ -78,7 +78,9 @@ const styles = StyleSheet.create({
         flexDirection: "row",
     },
     textStyle: {
-        textTransform: "uppercase",
+       textTransform: "uppercase",
+        
+
     },
     iconStyle: {
         width: "100%",

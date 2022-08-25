@@ -37,7 +37,7 @@ const Home = (props) => {
       
        <View style={[styles.lineStyle,
         {
-           marginVertical: 20,
+           marginVertical: 10,
        },
       ]}></View>
        </View>
@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
   },
 
   lineStyle: {
-    marginBottom: 20,
+     marginBottom: 10,
     borderWidth: 0.5,
     borderColor: "grey",
   },
